@@ -1,0 +1,501 @@
+,movie,link,director,genre
+0,The Godfather,https://www.metacritic.com/movie/the-godfather,['Francis Ford Coppola'],"['Drama', 'Thriller', 'Crime']"
+1,Citizen Kane,https://www.metacritic.com/movie/citizen-kane,['Orson Welles'],"['Drama', 'Mystery']"
+2,Rear Window,https://www.metacritic.com/movie/rear-window,['Alfred Hitchcock'],"['Mystery', 'Thriller']"
+3,Casablanca,https://www.metacritic.com/movie/casablanca,['Michael Curtiz'],"['Drama', 'Romance', 'War']"
+4,Boyhood,https://www.metacritic.com/movie/boyhood,['Richard Linklater'],['Drama']
+5,Three Colors: Red,https://www.metacritic.com/movie/three-colors-red,['Krzysztof Kieslowski'],"['Drama', 'Mystery', 'Romance']"
+6,Vertigo,https://www.metacritic.com/movie/vertigo,['Alfred Hitchcock'],"['Mystery', 'Thriller', 'Romance']"
+7,Notorious,https://www.metacritic.com/movie/notorious-1946,['Alfred Hitchcock'],"['Drama', 'Thriller', 'Romance', 'Film-Noir']"
+8,Singin' in the Rain,https://www.metacritic.com/movie/singin-in-the-rain,"['Gene Kelly', 'Stanley Donen']","['Comedy', 'Romance', 'Musical']"
+9,City Lights,https://www.metacritic.com/movie/city-lights,['Charles Chaplin'],"['Drama', 'Comedy', 'Romance']"
+10,Moonlight,https://www.metacritic.com/movie/moonlight-2016,['Barry Jenkins'],['Drama']
+11,Intolerance,https://www.metacritic.com/movie/intolerance,['D.W. Griffith'],"['Drama', 'History']"
+12,Pinocchio,https://www.metacritic.com/movie/pinocchio-1940,"['Ben Sharpsteen', 'Bill Roberts', 'Hamilton Luske', 'Jack Kinney', 'Norman Ferguson', 'T. Hee', 'Wilfred Jackson']","['Fantasy', 'Comedy', 'Animation', 'Family', 'Musical']"
+13,Touch of Evil,https://www.metacritic.com/movie/touch-of-evil,['Orson Welles'],"['Drama', 'Thriller', 'Crime', 'Film-Noir']"
+14,Au hasard Balthazar,https://www.metacritic.com/movie/au-hasard-balthazar,['Robert Bresson'],"['Drama', 'Crime']"
+15,The Lady Vanishes,https://www.metacritic.com/movie/the-lady-vanishes-1938,['Alfred Hitchcock'],"['Mystery', 'Thriller']"
+16,The Treasure of the Sierra Madre,https://www.metacritic.com/movie/the-treasure-of-the-sierra-madre,['John Huston'],"['Adventure', 'Drama', 'Western']"
+17,Pan's Labyrinth,https://www.metacritic.com/movie/pans-labyrinth,['Guillermo del Toro'],"['Drama', 'Mystery', 'Thriller', 'Fantasy', 'War']"
+18,Some Like It Hot,https://www.metacritic.com/movie/some-like-it-hot,['Billy Wilder'],"['Comedy', 'Romance']"
+19,North by Northwest,https://www.metacritic.com/movie/north-by-northwest,['Alfred Hitchcock'],"['Action', 'Adventure', 'Mystery', 'Thriller']"
+20,Hoop Dreams,https://www.metacritic.com/movie/hoop-dreams,['Steve James'],"['Drama', 'Sport', 'Documentary']"
+21,Rashomon,https://www.metacritic.com/movie/rashomon,['Akira Kurosawa'],"['Drama', 'Mystery', 'Crime']"
+22,All About Eve,https://www.metacritic.com/movie/all-about-eve,['Joseph L. Mankiewicz'],['Drama']
+23,Jules and Jim,https://www.metacritic.com/movie/jules-and-jim,['François Truffaut'],"['Drama', 'Romance']"
+24,The Wild Bunch,https://www.metacritic.com/movie/the-wild-bunch,['Sam Peckinpah'],"['Action', 'Adventure', 'Western']"
+25,My Left Foot,https://www.metacritic.com/movie/my-left-foot,['Jim Sheridan'],"['Biography', 'Drama']"
+26,The Third Man,https://www.metacritic.com/movie/the-third-man,['Carol Reed'],"['Mystery', 'Thriller', 'Film-Noir']"
+27,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,https://www.metacritic.com/movie/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb,['Stanley Kubrick'],"['Thriller', 'Comedy']"
+28,"Quo Vadis, Aida?",https://www.metacritic.com/movie/quo-vadis-aida,['Jasmila Zbanic'],"['Drama', 'History', 'War']"
+29,Psycho,https://www.metacritic.com/movie/psycho-1960,['Alfred Hitchcock'],"['Mystery', 'Thriller', 'Horror']"
+30,Gone with the Wind,https://www.metacritic.com/movie/gone-with-the-wind,"['George Cukor', 'Sam Wood', 'Victor Fleming']","['Drama', 'History', 'Romance', 'War']"
+31,"4 Months, 3 Weeks and 2 Days",https://www.metacritic.com/movie/4-months-3-weeks-and-2-days,['Cristian Mungiu'],['Drama']
+32,Battleship Potemkin,https://www.metacritic.com/movie/battleship-potemkin,['Sergei M. Eisenstein'],"['Drama', 'History', 'Thriller', 'War']"
+33,A Streetcar Named Desire,https://www.metacritic.com/movie/a-streetcar-named-desire,['Elia Kazan'],['Drama']
+34,The Maltese Falcon,https://www.metacritic.com/movie/the-maltese-falcon,['John Huston'],"['Mystery', 'Film-Noir']"
+35,American Graffiti,https://www.metacritic.com/movie/american-graffiti,['George Lucas'],"['Drama', 'Comedy']"
+36,Dumbo,https://www.metacritic.com/movie/dumbo-1941,"['Ben Sharpsteen', 'Bill Roberts', 'Jack Kinney', 'John Elliotte', 'Norman Ferguson', 'Samuel Armstrong', 'Wilfred Jackson']","['Drama', 'Animation', 'Family', 'Musical']"
+37,Roma,https://www.metacritic.com/movie/roma,['Alfonso Cuarón'],['Drama']
+38,Parasite,https://www.metacritic.com/movie/parasite,['Joon-ho Bong'],"['Drama', 'Thriller', 'Comedy']"
+39,Ran,https://www.metacritic.com/movie/ran,['Akira Kurosawa'],"['Action', 'Drama', 'War']"
+40,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",https://www.metacritic.com/movie/summer-of-soul-or-when-the-revolution-could-not-be-televised,['Ahmir-Khalib Thompson'],['Documentary']
+41,The Shop Around the Corner,https://www.metacritic.com/movie/the-shop-around-the-corner,['Ernst Lubitsch'],"['Drama', 'Comedy', 'Romance']"
+42,12 Angry Men,https://www.metacritic.com/movie/12-angry-men,['Sidney Lumet'],"['Drama', 'Crime']"
+43,Rosemary's Baby,https://www.metacritic.com/movie/rosemarys-baby,['Roman Polanski'],"['Drama', 'Horror']"
+44,12 Years a Slave,https://www.metacritic.com/movie/12-years-a-slave,['Steve McQueen'],"['Biography', 'Drama', 'History']"
+45,Manchester by the Sea,https://www.metacritic.com/movie/manchester-by-the-sea,['Kenneth Lonergan'],['Drama']
+46,Killer of Sheep,https://www.metacritic.com/movie/killer-of-sheep,['Charles Burnett'],['Drama']
+47,Nashville,https://www.metacritic.com/movie/nashville,['Robert Altman'],"['Drama', 'Comedy', 'Music']"
+48,Ratatouille,https://www.metacritic.com/movie/ratatouille,['Brad Bird'],"['Fantasy', 'Comedy', 'Animation', 'Family']"
+49,The Grapes of Wrath,https://www.metacritic.com/movie/the-grapes-of-wrath,['John Ford'],"['Drama', 'History']"
+50,Children of Paradise (1945),https://www.metacritic.com/movie/children-of-paradise,['Marcel Carné'],"['Drama', 'Romance']"
+51,Mean Streets,https://www.metacritic.com/movie/mean-streets,['Martin Scorsese'],"['Drama', 'Thriller', 'Crime']"
+52,Sansho the Bailiff,https://www.metacritic.com/movie/sansho-the-bailiff,['Kenji Mizoguchi'],['Drama']
+53,The Lady Eve,https://www.metacritic.com/movie/the-lady-eve,['Preston Sturges'],"['Comedy', 'Romance']"
+54,Gravity,https://www.metacritic.com/movie/gravity,['Alfonso Cuarón'],"['Sci-Fi', 'Drama', 'Mystery', 'Thriller']"
+55,Fantasia,https://www.metacritic.com/movie/fantasia,"['Ben Sharpsteen', 'Bill Roberts', 'David Hand', 'Ford Beebe Jr.', 'Hamilton Luske', 'James Algar', 'Jim Handley', 'Norman Ferguson', 'Paul Satterfield', 'Samuel Armstrong', 'T. Hee', 'Wilfred Jackson']","['Fantasy', 'Music', 'Animation', 'Family']"
+56,Spirited Away,https://www.metacritic.com/movie/spirited-away,['Hayao Miyazaki'],"['Adventure', 'Fantasy', 'Animation', 'Family']"
+57,Beauty and the Beast,https://www.metacritic.com/movie/beauty-and-the-beast-1991,"['Gary Trousdale', 'Kirk Wise']","['Fantasy', 'Romance', 'Animation', 'Family', 'Musical']"
+58,Small Axe: Lovers Rock,https://www.metacritic.com/movie/lovers-rock,['Steve McQueen'],['Drama']
+59,Toy Story,https://www.metacritic.com/movie/toy-story,['John Lasseter'],"['Adventure', 'Fantasy', 'Comedy', 'Animation', 'Family']"
+60,The Bride of Frankenstein,https://www.metacritic.com/movie/the-bride-of-frankenstein,['James Whale'],"['Sci-Fi', 'Drama', 'Horror']"
+61,Don't Look Now,https://www.metacritic.com/movie/dont-look-now,['Nicolas Roeg'],"['Drama', 'Thriller', 'Horror']"
+62,Aftersun,https://www.metacritic.com/movie/aftersun,['Charlotte Wells'],['Drama']
+63,The Social Network,https://www.metacritic.com/movie/the-social-network,['David Fincher'],"['Biography', 'Drama', 'History', 'Comedy']"
+64,My Fair Lady,https://www.metacritic.com/movie/my-fair-lady,['George Cukor'],"['Drama', 'Romance', 'Family', 'Musical']"
+65,Portrait of a Lady on Fire,https://www.metacritic.com/movie/portrait-of-a-lady-on-fire,['Céline Sciamma'],"['Drama', 'History', 'Romance']"
+66,I Am Not Your Negro,https://www.metacritic.com/movie/i-am-not-your-negro,['Raoul Peck'],['Documentary']
+67,Woodstock,https://www.metacritic.com/movie/woodstock-1970,['Michael Wadleigh'],"['History', 'Music', 'Documentary']"
+68,Rocks,https://www.metacritic.com/movie/rocks,['Sarah Gavron'],['Drama']
+69,Snow White and the Seven Dwarfs,https://www.metacritic.com/movie/snow-white-and-the-seven-dwarfs,"['Ben Sharpsteen', 'David Hand', 'Larry Morey', 'Perce Pearce', 'Wilfred Jackson', 'William Cottrell']","['Fantasy', 'Romance', 'Animation', 'Family', 'Musical']"
+70,Amour,https://www.metacritic.com/movie/amour,['Michael Haneke'],"['Drama', 'Romance']"
+71,The Hurt Locker,https://www.metacritic.com/movie/the-hurt-locker,['Kathryn Bigelow'],"['Action', 'Drama', 'Thriller', 'War']"
+72,Anatomy of a Murder,https://www.metacritic.com/movie/anatomy-of-a-murder,['Otto Preminger'],"['Drama', 'Mystery', 'Thriller', 'Crime']"
+73,Zero Dark Thirty,https://www.metacritic.com/movie/zero-dark-thirty,['Kathryn Bigelow'],"['Action', 'Drama', 'History', 'Thriller']"
+74,Collective,https://www.metacritic.com/movie/collective,['Alexander Nanau'],['Documentary']
+75,A Separation,https://www.metacritic.com/movie/a-separation,['Asghar Farhadi'],['Drama']
+76,Double Indemnity,https://www.metacritic.com/movie/double-indemnity,['Billy Wilder'],"['Drama', 'Mystery', 'Thriller', 'Crime', 'Film-Noir']"
+77,WALL-E,https://www.metacritic.com/movie/wall-e,['Andrew Stanton'],"['Adventure', 'Sci-Fi', 'Romance', 'Animation', 'Family']"
+78,Carol,https://www.metacritic.com/movie/carol,['Todd Haynes'],"['Drama', 'Romance']"
+79,Before Midnight,https://www.metacritic.com/movie/before-midnight,['Richard Linklater'],"['Drama', 'Romance']"
+80,Dunkirk,https://www.metacritic.com/movie/dunkirk,['Christopher Nolan'],"['Action', 'Drama', 'History', 'Thriller', 'War']"
+81,The Man Who Shot Liberty Valance,https://www.metacritic.com/movie/the-man-who-shot-liberty-valance,['John Ford'],"['Drama', 'Western']"
+82,The Searchers,https://www.metacritic.com/movie/the-searchers,['John Ford'],"['Adventure', 'Drama', 'Western']"
+83,45 Years,https://www.metacritic.com/movie/45-years,['Andrew Haigh'],"['Drama', 'Romance']"
+84,Taxi Driver,https://www.metacritic.com/movie/taxi-driver,['Martin Scorsese'],"['Drama', 'Thriller', 'Crime']"
+85,The Servant,https://www.metacritic.com/movie/the-servant,['Joseph Losey'],['Drama']
+86,Pulp Fiction,https://www.metacritic.com/movie/pulp-fiction,['Quentin Tarantino'],"['Drama', 'Thriller', 'Crime']"
+87,The Manchurian Candidate,https://www.metacritic.com/movie/the-manchurian-candidate-1962,['John Frankenheimer'],"['Drama', 'Mystery', 'Thriller']"
+88,Mr. Turner,https://www.metacritic.com/movie/mr-turner,['Mike Leigh'],"['Biography', 'Drama', 'History']"
+89,The Irishman,https://www.metacritic.com/movie/the-irishman,['Martin Scorsese'],"['Biography', 'Drama', 'History', 'Thriller', 'Crime']"
+90,Amazing Grace,https://www.metacritic.com/movie/amazing-grace-1972,"['Alan Elliott', 'Sydney Pollack']",['Documentary']
+91,Grave of the Fireflies (1988),https://www.metacritic.com/movie/grave-of-the-fireflies,['Isao Takahata'],"['Drama', 'War', 'Animation']"
+92,The Wild Child,https://www.metacritic.com/movie/the-wild-child,['François Truffaut'],['Drama']
+93,Shadow of a Doubt,https://www.metacritic.com/movie/shadow-of-a-doubt,['Alfred Hitchcock'],['Thriller']
+94,Inside Out,https://www.metacritic.com/movie/inside-out-2015,"['Pete Docter', 'Ronaldo Del Carmen']","['Adventure', 'Drama', 'Fantasy', 'Comedy', 'Animation', 'Family']"
+95,Sideways,https://www.metacritic.com/movie/sideways,['Alexander Payne'],"['Drama', 'Comedy', 'Romance']"
+96,Schindler's List,https://www.metacritic.com/movie/schindlers-list,['Steven Spielberg'],"['Biography', 'Drama', 'History', 'War']"
+97,Meet Me in St. Louis,https://www.metacritic.com/movie/meet-me-in-st-louis,['Vincente Minnelli'],"['Drama', 'Comedy', 'Romance', 'Music', 'Family']"
+98,The Apartment,https://www.metacritic.com/movie/the-apartment,['Billy Wilder'],"['Drama', 'Comedy', 'Romance']"
+99,Apocalypse Now,https://www.metacritic.com/movie/apocalypse-now,['Francis Ford Coppola'],"['Action', 'Drama', 'War']"
+100,The Gunfighter,https://www.metacritic.com/movie/the-gunfighter,['Henry King'],['Western']
+101,We Were Here,https://www.metacritic.com/movie/we-were-here,"['Bill Weber', 'David Weissman']",['Documentary']
+102,Faces Places,https://www.metacritic.com/movie/faces-places,"['Agnès Varda', 'JR']",['Documentary']
+103,Chimes at Midnight,https://www.metacritic.com/movie/chimes-at-midnight,['Orson Welles'],"['Drama', 'History', 'Comedy', 'War']"
+104,The Lord of the Rings: The Return of the King,https://www.metacritic.com/movie/the-lord-of-the-rings-the-return-of-the-king,['Peter Jackson'],"['Action', 'Adventure', 'Fantasy']"
+105,Call Me by Your Name,https://www.metacritic.com/movie/call-me-by-your-name,['Luca Guadagnino'],"['Drama', 'Romance']"
+106,Carlos,https://www.metacritic.com/movie/carlos,['Olivier Assayas'],"['Biography', 'Drama', 'History', 'Thriller', 'Crime']"
+107,Marriage Story,https://www.metacritic.com/movie/marriage-story,['Noah Baumbach'],"['Drama', 'Comedy', 'Romance']"
+108,The French Connection,https://www.metacritic.com/movie/the-french-connection,['William Friedkin'],"['Action', 'Drama', 'Thriller', 'Crime']"
+109,La La Land,https://www.metacritic.com/movie/la-la-land,['Damien Chazelle'],"['Drama', 'Comedy', 'Romance', 'Musical']"
+110,"Crouching Tiger, Hidden Dragon",https://www.metacritic.com/movie/crouching-tiger-hidden-dragon,['Ang Lee'],"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance']"
+111,"Jeanne Dielman, 23, quai du commerce, 1080 Bruxelles",https://www.metacritic.com/movie/jeanne-dielman-23-quai-du-commerce-1080-bruxelles,['Chantal Akerman'],['Drama']
+112,Petite Maman,https://www.metacritic.com/movie/petite-maman,['Céline Sciamma'],['Drama']
+113,The Magnificent Ambersons,https://www.metacritic.com/movie/the-magnificent-ambersons,"['Fred Fleck', 'Orson Welles', 'Robert Wise']","['Drama', 'Romance']"
+114,Reversal of Fortune,https://www.metacritic.com/movie/reversal-of-fortune,['Barbet Schroeder'],"['Drama', 'Mystery']"
+115,David Byrne’s American Utopia,https://www.metacritic.com/movie/american-utopia,['Spike Lee'],"['Music', 'Musical', 'Documentary']"
+116,Lady Bird,https://www.metacritic.com/movie/lady-bird,['Greta Gerwig'],"['Drama', 'Comedy']"
+117,Saint Omer,https://www.metacritic.com/movie/saint-omer,['Alice Diop'],['Drama']
+118,Shoplifters,https://www.metacritic.com/movie/shoplifters,['Hirokazu Koreeda'],"['Drama', 'Crime']"
+119,Shoah: Four Sisters,https://www.metacritic.com/movie/shoah-four-sisters,['Claude Lanzmann'],"['History', 'Documentary']"
+120,The 39 Steps,https://www.metacritic.com/movie/the-39-steps,['Alfred Hitchcock'],"['Mystery', 'Thriller', 'Film-Noir']"
+121,Duck Soup,https://www.metacritic.com/movie/duck-soup,['Leo McCarey'],"['Comedy', 'War', 'Musical']"
+122,Days of Heaven,https://www.metacritic.com/movie/days-of-heaven,['Terrence Malick'],"['Drama', 'Romance']"
+123,Toni Erdmann,https://www.metacritic.com/movie/toni-erdmann,['Maren Ade'],"['Drama', 'Comedy']"
+124,Yi Yi,https://www.metacritic.com/movie/yi-yi,['Edward Yang'],"['Drama', 'Romance', 'Music']"
+125,McCabe & Mrs. Miller,https://www.metacritic.com/movie/mccabe-mrs-miller,['Robert Altman'],"['Drama', 'Western']"
+126,Inside Llewyn Davis,https://www.metacritic.com/movie/inside-llewyn-davis,"['Ethan Coen', 'Joel Coen']","['Drama', 'Music']"
+127,The Best Years of Our Lives,https://www.metacritic.com/movie/the-best-years-of-our-lives,['William Wyler'],"['Drama', 'Romance', 'War']"
+128,Stagecoach,https://www.metacritic.com/movie/stagecoach,['John Ford'],"['Adventure', 'Drama', 'Western']"
+129,Sherpa,https://www.metacritic.com/movie/sherpa,['Jennifer Peedom'],['Documentary']
+130,There Will Be Blood,https://www.metacritic.com/movie/there-will-be-blood,['Paul Thomas Anderson'],"['Drama', 'Thriller']"
+131,Badlands,https://www.metacritic.com/movie/badlands,['Terrence Malick'],"['Drama', 'Crime']"
+132,The Last Picture Show,https://www.metacritic.com/movie/the-last-picture-show,['Peter Bogdanovich'],['Drama']
+133,Do the Right Thing,https://www.metacritic.com/movie/do-the-right-thing,['Spike Lee'],"['Drama', 'Comedy']"
+134,Sita Sings the Blues,https://www.metacritic.com/movie/sita-sings-the-blues,['Nina Paley'],"['Fantasy', 'Comedy', 'Romance', 'Animation', 'Musical']"
+135,The Decline of Western Civilization,https://www.metacritic.com/movie/the-decline-of-western-civilization,['Penelope Spheeris'],"['History', 'Music', 'Documentary']"
+136,Yojimbo,https://www.metacritic.com/movie/yojimbo,['Akira Kurosawa'],"['Action', 'Drama', 'Thriller']"
+137,Rio Bravo,https://www.metacritic.com/movie/rio-bravo,['Howard Hawks'],"['Action', 'Drama', 'Western']"
+138,Brother's Keeper,https://www.metacritic.com/movie/brothers-keeper,"['Bruce Sinofsky', 'Joe Berlinger']","['Mystery', 'Crime', 'Documentary']"
+139,Sankofa,https://www.metacritic.com/movie/sankofa,['Haile Gerima'],['Drama']
+140,Crumb,https://www.metacritic.com/movie/crumb,['Terry Zwigoff'],"['Biography', 'Documentary']"
+141,Spotlight,https://www.metacritic.com/movie/spotlight,['Thomas McCarthy'],"['Biography', 'Drama', 'History', 'Thriller']"
+142,The Band Wagon,https://www.metacritic.com/movie/the-band-wagon,['Vincente Minnelli'],"['Comedy', 'Romance', 'Musical']"
+143,One More Time with Feeling,https://www.metacritic.com/movie/one-more-time-with-feeling,['Andrew Dominik'],"['Music', 'Documentary']"
+144,Ride the High Country,https://www.metacritic.com/movie/ride-the-high-country,['Sam Peckinpah'],"['Drama', 'Western']"
+145,The Diving Bell and the Butterfly,https://www.metacritic.com/movie/the-diving-bell-and-the-butterfly,['Julian Schnabel'],"['Biography', 'Drama']"
+146,Invasion of the Body Snatchers,https://www.metacritic.com/movie/invasion-of-the-body-snatchers-1956,['Don Siegel'],"['Sci-Fi', 'Drama', 'Horror']"
+147,Mr. Bachmann and His Class,https://www.metacritic.com/movie/mr-bachmann-and-his-class,['Maria Speth'],['Documentary']
+148,The Class,https://www.metacritic.com/movie/the-class,['Laurent Cantet'],['Drama']
+149,Platoon,https://www.metacritic.com/movie/platoon,['Oliver Stone'],"['Drama', 'War']"
+150,35 Shots of Rum,https://www.metacritic.com/movie/35-shots-of-rum,['Claire Denis'],['Drama']
+151,Apocalypse Now: Final Cut,https://www.metacritic.com/movie/apocalypse-now-final-cut,['Francis Ford Coppola'],"['Drama', 'Mystery', 'War']"
+152,Chinatown,https://www.metacritic.com/movie/chinatown,['Roman Polanski'],"['Drama', 'Mystery', 'Thriller', 'Crime']"
+153,The Florida Project,https://www.metacritic.com/movie/the-florida-project,['Sean Baker'],['Drama']
+154,Timbuktu,https://www.metacritic.com/movie/timbuktu,['Abderrahmane Sissako'],['Drama']
+155,Frenzy,https://www.metacritic.com/movie/frenzy,['Alfred Hitchcock'],['Thriller']
+156,Brief Encounter,https://www.metacritic.com/movie/brief-encounter,['David Lean'],"['Drama', 'Romance']"
+157,No Country for Old Men,https://www.metacritic.com/movie/no-country-for-old-men,"['Ethan Coen', 'Joel Coen']","['Drama', 'Thriller', 'Crime', 'Western']"
+158,Cool Hand Luke,https://www.metacritic.com/movie/cool-hand-luke,['Stuart Rosenberg'],"['Drama', 'Crime']"
+159,Little Women,https://www.metacritic.com/movie/little-women-1933,['George Cukor'],"['Drama', 'Romance', 'Family']"
+160,Maborosi,https://www.metacritic.com/movie/maborosi,['Hirokazu Koreeda'],['Drama']
+161,Top Hat,https://www.metacritic.com/movie/top-hat,['Mark Sandrich'],"['Comedy', 'Romance', 'Musical']"
+162,Apocalypse Now Redux,https://www.metacritic.com/movie/apocalypse-now-redux,['Francis Ford Coppola'],"['Action', 'Drama', 'War']"
+163,Nomadland,https://www.metacritic.com/movie/nomadland,['Chloé Zhao'],['Drama']
+164,Never Rarely Sometimes Always,https://www.metacritic.com/movie/never-rarely-sometimes-always,['Eliza Hittman'],['Drama']
+165,Annie Hall,https://www.metacritic.com/movie/annie-hall,['Woody Allen'],"['Drama', 'Comedy', 'Romance']"
+166,The Lord of the Rings: The Fellowship of the Ring,https://www.metacritic.com/movie/the-lord-of-the-rings-the-fellowship-of-the-ring,['Peter Jackson'],"['Action', 'Adventure', 'Fantasy']"
+167,Quiz Show,https://www.metacritic.com/movie/quiz-show,['Robert Redford'],"['Drama', 'History']"
+168,Leviathan,https://www.metacritic.com/movie/leviathan-2014,['Andrei Zvyagintsev'],['Drama']
+169,Werckmeister Harmonies,https://www.metacritic.com/movie/werckmeister-harmonies,"['Ágnes Hranitzky', 'Béla Tarr']","['Sci-Fi', 'Drama', 'Mystery', 'Thriller', 'Horror', 'Crime']"
+170,Toy Story 3,https://www.metacritic.com/movie/toy-story-3,['Lee Unkrich'],"['Adventure', 'Fantasy', 'Comedy', 'Animation', 'Family']"
+171,The Souvenir,https://www.metacritic.com/movie/the-souvenir,['Joanna Hogg'],"['Drama', 'Mystery', 'Romance']"
+172,This Is Spinal Tap,https://www.metacritic.com/movie/this-is-spinal-tap,['Rob Reiner'],"['Comedy', 'Music']"
+173,The Look of Silence,https://www.metacritic.com/movie/the-look-of-silence,['Joshua Oppenheimer'],['Documentary']
+174,Tower,https://www.metacritic.com/movie/tower,['Keith Maitland'],"['History', 'Crime', 'Animation', 'Documentary']"
+175,Drive My Car,https://www.metacritic.com/movie/drive-my-car,['Ryûsuke Hamaguchi'],['Drama']
+176,Moolaadé,https://www.metacritic.com/movie/moolaade,['Ousmane Sembene'],['Drama']
+177,Atanarjuat: The Fast Runner,https://www.metacritic.com/movie/atanarjuat-the-fast-runner,['Zacharias Kunuk'],"['Drama', 'Fantasy']"
+178,Ikiru,https://www.metacritic.com/movie/ikiru,['Akira Kurosawa'],['Drama']
+179,Time,https://www.metacritic.com/movie/time-2020,['Garrett Bradley'],['Documentary']
+180,Gavagai,https://www.metacritic.com/movie/gavagai,['Rob Tregenza'],['Drama']
+181,The Man Who Would Be King,https://www.metacritic.com/movie/the-man-who-would-be-king,['John Huston'],['Adventure']
+182,The Killing,https://www.metacritic.com/movie/the-killing,['Stanley Kubrick'],"['Drama', 'Thriller', 'Crime', 'Film-Noir']"
+183,Swing Time,https://www.metacritic.com/movie/swing-time,['George Stevens'],"['Comedy', 'Romance', 'Musical']"
+184,Breaking Away,https://www.metacritic.com/movie/breaking-away,['Peter Yates'],"['Drama', 'Sport', 'Comedy', 'Romance']"
+185,After Life,https://www.metacritic.com/movie/after-life,['Hirokazu Koreeda'],"['Drama', 'Fantasy']"
+186,Son of Saul,https://www.metacritic.com/movie/son-of-saul,['László Nemes'],"['Drama', 'History', 'Thriller', 'Horror', 'War']"
+187,Love Affair,https://www.metacritic.com/movie/love-affair-1939,['Leo McCarey'],"['Drama', 'Comedy', 'Romance']"
+188,Frankenstein,https://www.metacritic.com/movie/frankenstein,['James Whale'],"['Sci-Fi', 'Drama', 'Horror']"
+189,8½,https://www.metacritic.com/movie/-1963,['Federico Fellini'],['Drama']
+190,Little Women,https://www.metacritic.com/movie/little-women-2019,['Greta Gerwig'],"['Drama', 'Romance']"
+191,E.T. The Extra-Terrestrial,https://www.metacritic.com/movie/et-the-extra-terrestrial,['Steven Spielberg'],"['Adventure', 'Sci-Fi', 'Drama', 'Fantasy', 'Family']"
+192,The African Queen,https://www.metacritic.com/movie/the-african-queen,['John Huston'],"['Adventure', 'Drama', 'Romance', 'War']"
+193,The Triplets of Belleville,https://www.metacritic.com/movie/the-triplets-of-belleville,['Sylvain Chomet'],"['Adventure', 'Comedy', 'Music', 'Animation']"
+194,The Queen,https://www.metacritic.com/movie/the-queen,['Stephen Frears'],"['Biography', 'Drama']"
+195,Flee,https://www.metacritic.com/movie/flee,['Jonas Poher Rasmussen'],"['Biography', 'Drama', 'Animation', 'Documentary']"
+196,All Quiet on the Western Front,https://www.metacritic.com/movie/all-quiet-on-the-western-front,['Lewis Milestone'],"['Drama', 'War']"
+197,EX LIBRIS: The New York Public Library,https://www.metacritic.com/movie/ex-libris-new-york-public-library,['Frederick Wiseman'],['Documentary']
+198,A Bread Factory Part Two: Walk With Me a While,https://www.metacritic.com/movie/a-bread-factory-part-two,['Patrick Wang'],"['Drama', 'Comedy']"
+199,The Ladykillers,https://www.metacritic.com/movie/the-ladykillers-1955,['Alexander Mackendrick'],"['Comedy', 'Crime']"
+200,Young Mr. Lincoln,https://www.metacritic.com/movie/young-mr-lincoln,['John Ford'],"['Biography', 'Drama']"
+201,Stories We Tell,https://www.metacritic.com/movie/stories-we-tell,['Sarah Polley'],['Documentary']
+202,A Bread Factory Part One: For the Sake of Gold,https://www.metacritic.com/movie/a-bread-factory-part-one,['Patrick Wang'],"['Drama', 'Comedy']"
+203,The Act of Killing,https://www.metacritic.com/movie/the-act-of-killing,"['Anonymous', 'Christine Cynn', 'Joshua Oppenheimer']","['History', 'Crime', 'Documentary']"
+204,On the Waterfront,https://www.metacritic.com/movie/on-the-waterfront,['Elia Kazan'],"['Drama', 'Romance', 'Crime']"
+205,Jafar Panahi's Taxi,https://www.metacritic.com/movie/jafar-panahis-taxi,['Jafar Panahi'],"['Drama', 'Comedy']"
+206,Ida,https://www.metacritic.com/movie/ida,['Pawel Pawlikowski'],['Drama']
+207,Beau Travail,https://www.metacritic.com/movie/beau-travail,['Claire Denis'],['Drama']
+208,Her,https://www.metacritic.com/movie/her,['Spike Jonze'],"['Sci-Fi', 'Drama', 'Comedy', 'Romance']"
+209,Uncut Gems,https://www.metacritic.com/movie/uncut-gems,"['Ben Safdie', 'Joshua Safdie']","['Drama', 'Mystery', 'Thriller', 'Comedy', 'Crime']"
+210,Waltz with Bashir,https://www.metacritic.com/movie/waltz-with-bashir,['Ari Folman'],"['Biography', 'Drama', 'War', 'Animation']"
+211,"This Is Not a Burial, It's a Resurrection",https://www.metacritic.com/movie/this-is-not-a-burial-its-a-resurrection,['Lemohang Jeremiah Mosese'],['Drama']
+212,They Shall Not Grow Old,https://www.metacritic.com/movie/they-shall-not-grow-old,['Peter Jackson'],"['History', 'War', 'Documentary']"
+213,Secrets & Lies,https://www.metacritic.com/movie/secrets-lies,['Mike Leigh'],"['Drama', 'Comedy']"
+214,Memoria,https://www.metacritic.com/movie/memoria-2020,['Apichatpong Weerasethakul'],"['Sci-Fi', 'Drama']"
+215,An Autumn Afternoon,https://www.metacritic.com/movie/an-autumn-afternoon,['Yasujiro Ozu'],['Drama']
+216,Patton,https://www.metacritic.com/movie/patton,['Franklin J. Schaffner'],"['Biography', 'Drama', 'War']"
+217,The Favourite,https://www.metacritic.com/movie/the-favourite,['Giorgos Lanthimos'],"['Biography', 'Drama', 'History', 'Comedy']"
+218,The Sweet Hereafter,https://www.metacritic.com/movie/the-sweet-hereafter,['Atom Egoyan'],['Drama']
+219,TÁR,https://www.metacritic.com/movie/tar-2022,['Todd Field'],"['Drama', 'Music']"
+220,The Right Stuff,https://www.metacritic.com/movie/the-right-stuff,['Philip Kaufman'],"['Adventure', 'Biography', 'Drama', 'History']"
+221,Bambi,https://www.metacritic.com/movie/bambi,"['Bill Roberts', 'David Hand', 'Graham Heid', 'James Algar', 'Norman Wright', 'Paul Satterfield', 'Samuel Armstrong']","['Drama', 'Animation', 'Family']"
+222,Bringing Up Baby,https://www.metacritic.com/movie/bringing-up-baby,['Howard Hawks'],"['Comedy', 'Romance', 'Family']"
+223,The Gatekeepers,https://www.metacritic.com/movie/the-gatekeepers,['Dror Moreh'],['Documentary']
+224,Nostalgia for the Light,https://www.metacritic.com/movie/nostalgia-for-the-light,['Patricio Guzmán'],"['Drama', 'Documentary']"
+225,The Rider,https://www.metacritic.com/movie/the-rider,['Chloé Zhao'],"['Adventure', 'Drama', 'Comedy', 'Romance', 'Western', 'Music']"
+226,David Copperfield,https://www.metacritic.com/movie/david-copperfield,['George Cukor'],"['Adventure', 'Drama', 'Romance']"
+227,Saving Private Ryan,https://www.metacritic.com/movie/saving-private-ryan,['Steven Spielberg'],"['Action', 'Drama', 'War']"
+228,Burning,https://www.metacritic.com/movie/burning,['Chang-dong Lee'],"['Drama', 'Mystery']"
+229,The Worst Person in the World,https://www.metacritic.com/movie/the-worst-person-in-the-world,['Joachim Trier'],"['Drama', 'Comedy']"
+230,Ben-Hur,https://www.metacritic.com/movie/ben-hur-1959,['William Wyler'],"['Adventure', 'Drama', 'History', 'War']"
+231,After Hours,https://www.metacritic.com/movie/after-hours,['Martin Scorsese'],"['Thriller', 'Comedy']"
+232,The Crying Game,https://www.metacritic.com/movie/the-crying-game,['Neil Jordan'],"['Thriller', 'Romance', 'Crime']"
+233,Great Expectations,https://www.metacritic.com/movie/great-expectations-1947,['David Lean'],"['Adventure', 'Drama', 'Mystery', 'Romance']"
+234,Winter's Bone,https://www.metacritic.com/movie/winters-bone,['Debra Granik'],"['Drama', 'Thriller']"
+235,Gett: The Trial of Viviane Amsalem,https://www.metacritic.com/movie/gett-the-trial-of-viviane-amsalem,"['Ronit Elkabetz', 'Shlomi Elkabetz']",['Drama']
+236,I Called Him Morgan,https://www.metacritic.com/movie/i-called-him-morgan,['Kasper Collin'],"['Drama', 'History', 'Music', 'Documentary']"
+237,Close Encounters of the Third Kind,https://www.metacritic.com/movie/close-encounters-of-the-third-kind,['Steven Spielberg'],"['Adventure', 'Sci-Fi', 'Drama']"
+238,The Godfather: Part II,https://www.metacritic.com/movie/the-godfather-part-ii,['Francis Ford Coppola'],"['Drama', 'Thriller', 'Crime']"
+239,Red Beard,https://www.metacritic.com/movie/red-beard,['Akira Kurosawa'],['Drama']
+240,The Hustler,https://www.metacritic.com/movie/the-hustler,['Robert Rossen'],"['Drama', 'Sport']"
+241,Hit the Road,https://www.metacritic.com/movie/hit-the-road,['Panah Panahi'],['Drama']
+242,L.A. Confidential,https://www.metacritic.com/movie/la-confidential,['Curtis Hanson'],"['Drama', 'Mystery', 'Thriller', 'Crime']"
+243,Procession,https://www.metacritic.com/movie/procession,['Robert Greene'],['Documentary']
+244,Bloody Sunday,https://www.metacritic.com/movie/bloody-sunday,['Paul Greengrass'],"['Drama', 'History', 'War']"
+245,My Voyage to Italy,https://www.metacritic.com/movie/my-voyage-to-italy,['Martin Scorsese'],['Documentary']
+246,Phantom Thread,https://www.metacritic.com/movie/phantom-thread,['Paul Thomas Anderson'],"['Drama', 'Romance', 'Crime']"
+247,Goodfellas,https://www.metacritic.com/movie/goodfellas,['Martin Scorsese'],"['Biography', 'Drama', 'Crime']"
+248,All the Beauty and the Bloodshed,https://www.metacritic.com/movie/all-the-beauty-and-the-bloodshed,['Laura Poitras'],['Documentary']
+249,Wojnarowicz,https://www.metacritic.com/movie/wojnarowicz,['Chris McKim'],['Documentary']
+250,Paths of the Soul,https://www.metacritic.com/movie/paths-of-the-soul,['Yang Zhang'],['Drama']
+251,It's Such a Beautiful Day,https://www.metacritic.com/movie/its-such-a-beautiful-day-2012,['Don Hertzfeldt'],"['Sci-Fi', 'Drama', 'Fantasy', 'Comedy', 'Animation']"
+252,My Perestroika,https://www.metacritic.com/movie/my-perestroika,['Robin Hessman'],"['Biography', 'History', 'Family', 'Documentary', 'News']"
+253,This Is Not a Film,https://www.metacritic.com/movie/this-is-not-a-film,"['Jafar Panahi', 'Mojtaba Mirtahmasb']",['Documentary']
+254,The Birds,https://www.metacritic.com/movie/the-birds,['Alfred Hitchcock'],"['Drama', 'Mystery', 'Horror', 'Romance']"
+255,To Have and Have Not,https://www.metacritic.com/movie/to-have-and-have-not,['Howard Hawks'],"['Adventure', 'Thriller', 'Comedy', 'Romance', 'War', 'Film-Noir']"
+256,Finding Nemo,https://www.metacritic.com/movie/finding-nemo,"['Andrew Stanton', 'Lee Unkrich']","['Adventure', 'Comedy', 'Animation', 'Family']"
+257,Topsy-Turvy,https://www.metacritic.com/movie/topsy-turvy,['Mike Leigh'],"['Biography', 'Drama', 'Comedy', 'Music']"
+258,Samurai Rebellion,https://www.metacritic.com/movie/samurai-rebellion,['Masaki Kobayashi'],['Drama']
+259,King Kong,https://www.metacritic.com/movie/king-kong-1933,"['Ernest B. Schoedsack', 'Merian C. Cooper']","['Adventure', 'Sci-Fi', 'Horror']"
+260,Small Axe: Mangrove,https://www.metacritic.com/movie/mangrove,['Steve McQueen'],['Drama']
+261,The Incredibles,https://www.metacritic.com/movie/the-incredibles,['Brad Bird'],"['Action', 'Adventure', 'Animation', 'Family']"
+262,Before Sunset,https://www.metacritic.com/movie/before-sunset,['Richard Linklater'],"['Drama', 'Romance']"
+263,Being John Malkovich,https://www.metacritic.com/movie/being-john-malkovich,['Spike Jonze'],"['Drama', 'Fantasy', 'Comedy', 'Romance']"
+264,A Prophet,https://www.metacritic.com/movie/a-prophet,['Jacques Audiard'],"['Drama', 'Crime']"
+265,Hard to Be a God,https://www.metacritic.com/movie/hard-to-be-a-god,['Aleksei German'],"['Sci-Fi', 'Drama']"
+266,Almost Famous,https://www.metacritic.com/movie/almost-famous,['Cameron Crowe'],"['Drama', 'Music']"
+267,High and Low,https://www.metacritic.com/movie/high-and-low,['Akira Kurosawa'],"['Drama', 'Mystery', 'Thriller', 'Crime']"
+268,Paths of Glory,https://www.metacritic.com/movie/paths-of-glory,['Stanley Kubrick'],"['Drama', 'War']"
+269,Cold War,https://www.metacritic.com/movie/cold-war,['Pawel Pawlikowski'],"['Drama', 'Romance', 'Music']"
+270,Big Men,https://www.metacritic.com/movie/big-men,['Rachel Boynton'],['Documentary']
+271,American Splendor,https://www.metacritic.com/movie/american-splendor,"['Robert Pulcini', 'Shari Springer Berman']","['Biography', 'Drama', 'Comedy']"
+272,Hannah and Her Sisters,https://www.metacritic.com/movie/hannah-and-her-sisters,['Woody Allen'],"['Drama', 'Comedy', 'Romance']"
+273,The Circus,https://www.metacritic.com/movie/the-circus,['Charles Chaplin'],"['Comedy', 'Romance']"
+274,Lost in Translation,https://www.metacritic.com/movie/lost-in-translation,['Sofia Coppola'],"['Drama', 'Romance']"
+275,The Tale,https://www.metacritic.com/movie/the-tale,['Jennifer Fox'],"['Drama', 'Mystery', 'Thriller']"
+276,Licorice Pizza,https://www.metacritic.com/movie/licorice-pizza,['Paul Thomas Anderson'],"['Drama', 'Comedy']"
+277,Paterson,https://www.metacritic.com/movie/paterson,['Jim Jarmusch'],"['Drama', 'Comedy', 'Romance']"
+278,Gosford Park,https://www.metacritic.com/movie/gosford-park,['Robert Altman'],"['Drama', 'Mystery', 'Comedy']"
+279,The Fits,https://www.metacritic.com/movie/the-fits,['Anna Rose Holmer'],['Drama']
+280,The Souvenir: Part II,https://www.metacritic.com/movie/the-souvenir-part-ii,['Joanna Hogg'],"['Drama', 'Romance']"
+281,Mad Max: Fury Road,https://www.metacritic.com/movie/mad-max-fury-road,['George Miller'],"['Action', 'Adventure', 'Sci-Fi', 'Thriller']"
+282,United 93,https://www.metacritic.com/movie/united-93,['Paul Greengrass'],"['Drama', 'History', 'Crime']"
+283,Capturing the Friedmans,https://www.metacritic.com/movie/capturing-the-friedmans,['Andrew Jarecki'],"['Biography', 'Mystery', 'Crime', 'Documentary']"
+284,The Truman Show,https://www.metacritic.com/movie/the-truman-show,['Peter Weir'],['Drama']
+285,American Hustle,https://www.metacritic.com/movie/american-hustle,['David O. Russell'],"['Drama', 'History', 'Thriller', 'Crime']"
+286,Blue Is the Warmest Color,https://www.metacritic.com/movie/blue-is-the-warmest-color,['Abdel Kechiche'],"['Drama', 'Romance']"
+287,Star Wars: Episode IV - A New Hope,https://www.metacritic.com/movie/star-wars-episode-iv---a-new-hope,['George Lucas'],"['Action', 'Adventure', 'Sci-Fi', 'Fantasy']"
+288,Persepolis,https://www.metacritic.com/movie/persepolis,"['Marjane Satrapi', 'Vincent Paronnaud']","['Biography', 'Drama', 'War', 'Animation']"
+289,The Age of Innocence,https://www.metacritic.com/movie/the-age-of-innocence,['Martin Scorsese'],"['Drama', 'Romance']"
+290,Once,https://www.metacritic.com/movie/once,['John Carney'],"['Drama', 'Romance', 'Music']"
+291,First Cow,https://www.metacritic.com/movie/first-cow,['Kelly Reichardt'],['Drama']
+292,The Best of Youth,https://www.metacritic.com/movie/the-best-of-youth,['Marco Tullio Giordana'],"['Drama', 'Romance']"
+293,The Overnighters,https://www.metacritic.com/movie/the-overnighters,['Jesse Moss'],"['Drama', 'Documentary']"
+294,The Lives of Others,https://www.metacritic.com/movie/the-lives-of-others,['Florian Henckel von Donnersmarck'],"['Drama', 'Thriller']"
+295,Two-Lane Blacktop,https://www.metacritic.com/movie/two-lane-blacktop,['Monte Hellman'],['Drama']
+296,House of Flying Daggers,https://www.metacritic.com/movie/house-of-flying-daggers,['Yimou Zhang'],"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance']"
+297,63 Up,https://www.metacritic.com/movie/63-up,['Michael Apted'],['Documentary']
+298,Minding the Gap,https://www.metacritic.com/movie/minding-the-gap,['Bing Liu'],['Documentary']
+299,Treasure Island,https://www.metacritic.com/movie/treasure-island,['Byron Haskin'],"['Adventure', 'Family']"
+300,Searching for Bobby Fischer,https://www.metacritic.com/movie/searching-for-bobby-fischer,['Steven Zaillian'],"['Biography', 'Drama']"
+301,Hamilton,https://www.metacritic.com/movie/hamilton-2020,['Thomas Kail'],"['Biography', 'Drama', 'History', 'Musical']"
+302,National Gallery,https://www.metacritic.com/movie/national-gallery,['Frederick Wiseman'],"['History', 'Documentary']"
+303,Assault on Precinct 13,https://www.metacritic.com/movie/assault-on-precinct-13-1976,['John Carpenter'],"['Action', 'Thriller', 'Crime']"
+304,Man on Wire,https://www.metacritic.com/movie/man-on-wire,['James Marsh'],"['Crime', 'Documentary']"
+305,Three Minutes: A Lengthening,https://www.metacritic.com/movie/three-minutes-a-lengthening,['Bianca Stigter'],['Documentary']
+306,For Sama,https://www.metacritic.com/movie/for-sama,"['Edward Watts', 'Waad Al-Khateab']",['Documentary']
+307,Force of Evil,https://www.metacritic.com/movie/force-of-evil,['Abraham Polonsky'],"['Drama', 'Crime', 'Film-Noir']"
+308,The Hidden Fortress,https://www.metacritic.com/movie/the-hidden-fortress,['Akira Kurosawa'],"['Adventure', 'Drama']"
+309,Still Walking,https://www.metacritic.com/movie/still-walking,['Hirokazu Koreeda'],['Drama']
+310,Gangs of Wasseypur,https://www.metacritic.com/movie/gangs-of-wasseypur,['Anurag Kashyap'],"['Action', 'Drama', 'Thriller', 'Crime']"
+311,The Last Detail,https://www.metacritic.com/movie/the-last-detail,['Hal Ashby'],"['Drama', 'Comedy']"
+312,When the Levees Broke: A Requiem in Four Acts,https://www.metacritic.com/movie/when-the-levees-broke-a-requiem-in-four-acts,['Spike Lee'],['Documentary']
+313,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,https://www.metacritic.com/movie/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan,['Larry Charles'],['Comedy']
+314,Minari,https://www.metacritic.com/movie/minari,['Lee Isaac Chung'],['Drama']
+315,Whiplash,https://www.metacritic.com/movie/whiplash,['Damien Chazelle'],"['Drama', 'Music']"
+316,Barry Lyndon,https://www.metacritic.com/movie/barry-lyndon,['Stanley Kubrick'],"['Adventure', 'Drama', 'History', 'War']"
+317,The Farewell,https://www.metacritic.com/movie/the-farewell,['Lulu Wang'],"['Drama', 'Comedy']"
+318,Elle,https://www.metacritic.com/movie/elle,['Paul Verhoeven'],"['Drama', 'Thriller', 'Comedy']"
+319,The Tale of The Princess Kaguya,https://www.metacritic.com/movie/the-tale-of-princess-kaguya,['Isao Takahata'],"['Drama', 'Fantasy', 'Animation']"
+320,Uncertain,https://www.metacritic.com/movie/uncertain,"['Anna Sandilands', 'Ewan McNicol']","['Drama', 'Comedy', 'Documentary']"
+321,Captain Blood,https://www.metacritic.com/movie/captain-blood,['Michael Curtiz'],"['Action', 'Adventure']"
+322,"Two Days, One Night",https://www.metacritic.com/movie/two-days-one-night,"['Jean-Pierre Dardenne', 'Luc Dardenne']",['Drama']
+323,Great Freedom,https://www.metacritic.com/movie/great-freedom,['Sebastian Meise'],['Drama']
+324,Eighth Grade,https://www.metacritic.com/movie/eighth-grade,['Bo Burnham'],"['Drama', 'Comedy']"
+325,A Star Is Born,https://www.metacritic.com/movie/a-star-is-born-1954,['George Cukor'],"['Drama', 'Romance', 'Musical']"
+326,No End in Sight,https://www.metacritic.com/movie/no-end-in-sight,['Charles Ferguson'],"['War', 'Documentary']"
+327,It's a Wonderful Life,https://www.metacritic.com/movie/its-a-wonderful-life,['Frank Capra'],"['Drama', 'Fantasy', 'Family']"
+328,The Madness of King George,https://www.metacritic.com/movie/the-madness-of-king-george,['Nicholas Hytner'],"['Biography', 'Drama', 'History', 'Comedy']"
+329,Phoenix,https://www.metacritic.com/movie/phoenix,['Christian Petzold'],"['Drama', 'History']"
+330,Goodbye Solo,https://www.metacritic.com/movie/goodbye-solo,['Ramin Bahrani'],['Drama']
+331,Gunda,https://www.metacritic.com/movie/gunda,['Victor Kossakovsky'],['Documentary']
+332,Western,https://www.metacritic.com/movie/western,"['Bill Ross IV', 'Turner Ross']","['Western', 'Documentary']"
+333,The Power of the Dog,https://www.metacritic.com/movie/the-power-of-the-dog,['Jane Campion'],['Drama']
+334,Stop Making Sense,https://www.metacritic.com/movie/stop-making-sense,['Jonathan Demme'],"['Music', 'Documentary']"
+335,Deep Red,https://www.metacritic.com/movie/deep-red,['Dario Argento'],"['Mystery', 'Thriller', 'Horror']"
+336,Downhill Racer,https://www.metacritic.com/movie/downhill-racer,['Michael Ritchie'],"['Drama', 'Sport']"
+337,Alien,https://www.metacritic.com/movie/alien,['Ridley Scott'],"['Sci-Fi', 'Thriller', 'Horror']"
+338,Columbus,https://www.metacritic.com/movie/columbus,['Kogonada'],"['Drama', 'Comedy', 'Romance']"
+339,Night of the Living Dead,https://www.metacritic.com/movie/night-of-the-living-dead,['George A. Romero'],['Horror']
+340,The Artist,https://www.metacritic.com/movie/the-artist,['Michel Hazanavicius'],['Romance']
+341,Yankee Doodle Dandy,https://www.metacritic.com/movie/yankee-doodle-dandy,['Michael Curtiz'],"['Biography', 'Drama', 'Musical']"
+342,Raging Bull,https://www.metacritic.com/movie/raging-bull,['Martin Scorsese'],"['Biography', 'Drama', 'Sport']"
+343,Eternal Sunshine of the Spotless Mind,https://www.metacritic.com/movie/eternal-sunshine-of-the-spotless-mind,['Michel Gondry'],"['Drama', 'Romance']"
+344,The Piano,https://www.metacritic.com/movie/the-piano,['Jane Campion'],"['Drama', 'Romance']"
+345,Of Mice and Men,https://www.metacritic.com/movie/of-mice-and-men,['Lewis Milestone'],['Drama']
+346,Dead Souls,https://www.metacritic.com/movie/dead-souls,['Bing Wang'],['Documentary']
+347,Zama,https://www.metacritic.com/movie/zama,['Lucrecia Martel'],['Drama']
+348,Dick Johnson Is Dead,https://www.metacritic.com/movie/dick-johnson-is-dead,['Kirsten Johnson'],"['Drama', 'Documentary']"
+349,High Noon,https://www.metacritic.com/movie/high-noon,['Fred Zinnemann'],"['Action', 'Drama', 'Thriller', 'Western']"
+350,Rebel Without a Cause,https://www.metacritic.com/movie/rebel-without-a-cause,['Nicholas Ray'],['Drama']
+351,Letters from Iwo Jima,https://www.metacritic.com/movie/letters-from-iwo-jima,['Clint Eastwood'],"['Drama', 'History', 'War']"
+352,The Seventh Continent (1989),https://www.metacritic.com/movie/the-seventh-continent,['Michael Haneke'],['Drama']
+353,A Woman Under the Influence,https://www.metacritic.com/movie/a-woman-under-the-influence,['John Cassavetes'],"['Drama', 'Romance']"
+354,Ghost World,https://www.metacritic.com/movie/ghost-world,['Terry Zwigoff'],"['Drama', 'Comedy']"
+355,Foreign Correspondent,https://www.metacritic.com/movie/foreign-correspondent,['Alfred Hitchcock'],"['Mystery', 'Thriller', 'Romance', 'War']"
+356,Show Boat,https://www.metacritic.com/movie/show-boat,['James Whale'],"['Drama', 'Comedy', 'Romance', 'Musical']"
+357,The Arbor,https://www.metacritic.com/movie/the-arbor,['Clio Barnard'],"['Biography', 'Documentary']"
+358,Long Day's Journey Into Night,https://www.metacritic.com/movie/long-days-journey-into-night,['Gan Bi'],"['Drama', 'Mystery']"
+359,Richard III,https://www.metacritic.com/movie/richard-iii-1956,['Laurence Olivier'],"['Biography', 'Drama', 'History', 'War']"
+360,Democrats,https://www.metacritic.com/movie/democrats,['Camilla Nielsson'],['Documentary']
+361,The Lion King,https://www.metacritic.com/movie/the-lion-king,"['Rob Minkoff', 'Roger Allers']","['Adventure', 'Drama', 'Animation', 'Family', 'Musical']"
+362,4 Little Girls,https://www.metacritic.com/movie/4-little-girls,['Spike Lee'],"['History', 'Documentary']"
+363,Wild Strawberries,https://www.metacritic.com/movie/wild-strawberries,['Ingmar Bergman'],"['Drama', 'Romance']"
+364,Crime + Punishment,https://www.metacritic.com/movie/crime-+-punishment,['Stephen T. Maing'],['Documentary']
+365,The Seventh Seal,https://www.metacritic.com/movie/the-seventh-seal,['Ingmar Bergman'],"['Drama', 'Fantasy']"
+366,How Green Was My Valley,https://www.metacritic.com/movie/how-green-was-my-valley,['John Ford'],"['Drama', 'Family']"
+367,Azor,https://www.metacritic.com/movie/azor,['Andreas Fontana'],['Drama']
+368,Y Tu Mamá También,https://www.metacritic.com/movie/y-tu-mama-tambien,['Alfonso Cuarón'],"['Drama', 'Comedy']"
+369,Paddington 2,https://www.metacritic.com/movie/paddington-2,['Paul King'],"['Adventure', 'Fantasy', 'Comedy', 'Animation', 'Family']"
+370,The Little Mermaid,https://www.metacritic.com/movie/the-little-mermaid,"['John Musker', 'Ron Clements']","['Fantasy', 'Romance', 'Animation', 'Family', 'Musical']"
+371,City Hall,https://www.metacritic.com/movie/city-hall,['Frederick Wiseman'],['Documentary']
+372,Capote,https://www.metacritic.com/movie/capote,['Bennett Miller'],"['Biography', 'Drama', 'Crime']"
+373,The Death of Stalin,https://www.metacritic.com/movie/the-death-of-stalin,['Armando Iannucci'],"['Biography', 'Drama', 'History', 'Comedy']"
+374,Miracle on 34th Street,https://www.metacritic.com/movie/miracle-on-34th-street,['George Seaton'],"['Drama', 'Comedy', 'Family']"
+375,Strangers on a Train,https://www.metacritic.com/movie/strangers-on-a-train,['Alfred Hitchcock'],"['Thriller', 'Crime', 'Film-Noir']"
+376,Tulpan,https://www.metacritic.com/movie/tulpan,['Sergei Dvortsevoy'],"['Drama', 'Comedy']"
+377,Manuscripts Don't Burn,https://www.metacritic.com/movie/manuscripts-dont-burn,['Mohammad Rasoulof'],['Drama']
+378,In Transit,https://www.metacritic.com/movie/in-transit,"['Albert Maysles', 'Benjamin Wu', 'David Usui', 'Lynn True', 'Nelson Walker III']","['Documentary', 'News']"
+379,"Three Billboards Outside Ebbing, Missouri",https://www.metacritic.com/movie/three-billboards-outside-ebbing-missouri,['Martin McDonagh'],"['Drama', 'Comedy', 'Crime']"
+380,Quest,https://www.metacritic.com/movie/quest-2017,['Jonathan Olshefski'],"['Music', 'Family', 'Documentary']"
+381,Au Revoir les Enfants,https://www.metacritic.com/movie/au-revoir-les-enfants,['Louis Malle'],"['Drama', 'War']"
+382,A Film Unfinished,https://www.metacritic.com/movie/a-film-unfinished,['Yael Hersonski'],"['Drama', 'History', 'Documentary']"
+383,Things to Come,https://www.metacritic.com/movie/things-to-come,['Mia Hansen-Løve'],['Drama']
+384,The Grand Budapest Hotel,https://www.metacritic.com/movie/the-grand-budapest-hotel,['Wes Anderson'],"['Drama', 'Comedy']"
+385,Winter Sleep,https://www.metacritic.com/movie/winter-sleep,['Nuri Bilge Ceylan'],['Drama']
+386,A Star Is Born,https://www.metacritic.com/movie/a-star-is-born,['Bradley Cooper'],"['Drama', 'Romance', 'Music', 'Musical']"
+387,Citizenfour,https://www.metacritic.com/movie/citizenfour,['Laura Poitras'],['Documentary']
+388,Time Out,https://www.metacritic.com/movie/time-out,['Laurent Cantet'],['Drama']
+389,The Blue Angel (re-release),https://www.metacritic.com/movie/the-blue-angel,['Josef von Sternberg'],"['Drama', 'Musical']"
+390,Thelma & Louise,https://www.metacritic.com/movie/thelma-louise,['Ridley Scott'],"['Drama', 'Thriller', 'Crime']"
+391,Away from Her,https://www.metacritic.com/movie/away-from-her,['Sarah Polley'],"['Drama', 'Romance']"
+392,The Fallen Idol (re-release),https://www.metacritic.com/movie/the-fallen-idol,['Carol Reed'],"['Drama', 'Mystery', 'Thriller']"
+393,The Father,https://www.metacritic.com/movie/the-father,['Florian Zeller'],['Drama']
+394,Fat City,https://www.metacritic.com/movie/fat-city,['John Huston'],"['Drama', 'Sport']"
+395,Foxtrot,https://www.metacritic.com/movie/foxtrot,['Samuel Maoz'],['Drama']
+396,Howards End,https://www.metacritic.com/movie/howards-end,['James Ivory'],"['Drama', 'Romance']"
+397,The Innocents,https://www.metacritic.com/movie/the-innocents,['Jack Clayton'],['Horror']
+398,Inside Job,https://www.metacritic.com/movie/inside-job,['Charles Ferguson'],['Documentary']
+399,Sweet Country,https://www.metacritic.com/movie/sweet-country,['Warwick Thornton'],"['Adventure', 'Drama', 'History', 'Thriller', 'Crime', 'Western']"
+400,Leave No Trace,https://www.metacritic.com/movie/leave-no-trace,['Debra Granik'],['Drama']
+401,Three Colors: White,https://www.metacritic.com/movie/three-colors-white,['Krzysztof Kieslowski'],"['Drama', 'Comedy', 'Romance']"
+402,Chicken Run,https://www.metacritic.com/movie/chicken-run,"['Nick Park', 'Peter Lord']","['Comedy', 'Animation', 'Family']"
+403,The King's Speech,https://www.metacritic.com/movie/the-kings-speech,['Tom Hooper'],"['Drama', 'History']"
+404,Parallel Mothers,https://www.metacritic.com/movie/parallel-mothers,['Pedro Almodóvar'],['Drama']
+405,Hell or High Water,https://www.metacritic.com/movie/hell-or-high-water,['David Mackenzie'],"['Drama', 'Crime']"
+406,Up,https://www.metacritic.com/movie/up,"['Bob Peterson', 'Pete Docter']","['Adventure', 'Drama', 'Comedy', 'Animation', 'Family']"
+407,Shirkers,https://www.metacritic.com/movie/shirkers,['Sandi Tan'],['Documentary']
+408,Mildred Pierce,https://www.metacritic.com/movie/mildred-pierce,['Michael Curtiz'],"['Drama', 'Mystery', 'Romance', 'Crime', 'Film-Noir']"
+409,45365,https://www.metacritic.com/movie/45365,"['Bill Ross IV', 'Turner Ross']",['Documentary']
+410,Tootsie,https://www.metacritic.com/movie/tootsie,['Sydney Pollack'],"['Drama', 'Comedy', 'Romance']"
+411,Marooned in Iraq,https://www.metacritic.com/movie/marooned-in-iraq,['Bahman Ghobadi'],['Drama']
+412,To Kill a Mockingbird,https://www.metacritic.com/movie/to-kill-a-mockingbird,['Robert Mulligan'],"['Drama', 'Crime']"
+413,Descendant,https://www.metacritic.com/movie/descendant,['Margaret Brown'],"['History', 'Documentary']"
+414,Aquarius,https://www.metacritic.com/movie/aquarius,['Kleber Mendonça Filho'],['Drama']
+415,"So Long, My Son",https://www.metacritic.com/movie/so-long-my-son,['Xiaoshuai Wang'],['Drama']
+416,Apollo 11,https://www.metacritic.com/movie/apollo-11,['Todd Douglas Miller'],"['History', 'Documentary']"
+417,Anomalisa,https://www.metacritic.com/movie/anomalisa,"['Charlie Kaufman', 'Duke Johnson']","['Drama', 'Fantasy', 'Comedy', 'Romance', 'Animation']"
+418,Toy Story 2,https://www.metacritic.com/movie/toy-story-2,"['Ash Brannon', 'John Lasseter', 'Lee Unkrich']","['Adventure', 'Fantasy', 'Comedy', 'Animation', 'Family']"
+419,Black Panther,https://www.metacritic.com/movie/black-panther,['Ryan Coogler'],"['Action', 'Adventure', 'Sci-Fi', 'Drama']"
+420,The Human Voice,https://www.metacritic.com/movie/the-human-voice,['Pedro Almodóvar'],"['Drama', 'Short']"
+421,Brooklyn,https://www.metacritic.com/movie/brooklyn,['John Crowley'],"['Drama', 'Comedy', 'Romance']"
+422,Nobody Knows,https://www.metacritic.com/movie/nobody-knows,['Hirokazu Koreeda'],['Drama']
+423,Life Is Sweet,https://www.metacritic.com/movie/life-is-sweet,['Mike Leigh'],"['Drama', 'Comedy']"
+424,Faces,https://www.metacritic.com/movie/faces,['John Cassavetes'],['Drama']
+425,Mary Poppins,https://www.metacritic.com/movie/mary-poppins,['Robert Stevenson'],"['Fantasy', 'Comedy', 'Family', 'Musical']"
+426,The Lord of the Rings: The Two Towers,https://www.metacritic.com/movie/the-lord-of-the-rings-the-two-towers,['Peter Jackson'],"['Action', 'Adventure', 'Fantasy']"
+427,L'Enfant (The Child),https://www.metacritic.com/movie/lenfant,"['Jean-Pierre Dardenne', 'Luc Dardenne']","['Drama', 'Romance', 'Crime']"
+428,Jane Fonda in Five Acts,https://www.metacritic.com/movie/jane-fonda-in-five-acts,['Susan Lacy'],['Documentary']
+429,The Conversation,https://www.metacritic.com/movie/the-conversation,['Francis Ford Coppola'],"['Drama', 'Mystery', 'Thriller']"
+430,Good Morning,https://www.metacritic.com/movie/good-morning,['Yasujiro Ozu'],"['Drama', 'Comedy', 'Family']"
+431,Newtown,https://www.metacritic.com/movie/newtown,['Kim A. Snyder'],['Documentary']
+432,Poetry,https://www.metacritic.com/movie/poetry,['Chang-dong Lee'],['Drama']
+433,Restless Creature: Wendy Whelan,https://www.metacritic.com/movie/restless-creature-wendy-whelan,"['Adam Schlesinger', 'Linda Saffire']",['Documentary']
+434,Birdman or (The Unexpected Virtue of Ignorance),https://www.metacritic.com/movie/birdman,['Alejandro González Iñárritu'],"['Drama', 'Comedy']"
+435,Little Women,https://www.metacritic.com/movie/little-women,['Gillian Armstrong'],"['Drama', 'Romance', 'Family']"
+436,Aftershock,https://www.metacritic.com/movie/aftershock-2022,"['Paula Eiselt', 'Tonya Lewis Lee']",['Documentary']
+437,Shakespeare in Love,https://www.metacritic.com/movie/shakespeare-in-love,['John Madden'],"['Drama', 'Comedy', 'Romance']"
+438,The Awful Truth,https://www.metacritic.com/movie/the-awful-truth,['Leo McCarey'],"['Comedy', 'Romance']"
+439,Can You Ever Forgive Me?,https://www.metacritic.com/movie/can-you-ever-forgive-me,['Marielle Heller'],"['Biography', 'Drama', 'Comedy', 'Crime']"
+440,Wolfwalkers,https://www.metacritic.com/movie/wolfwalkers,"['Ross Stewart', 'Tomm Moore']","['Adventure', 'Fantasy', 'Animation', 'Family']"
+441,It Happened One Night,https://www.metacritic.com/movie/it-happened-one-night,['Frank Capra'],"['Comedy', 'Romance']"
+442,The Body Remembers When the World Broke Open,https://www.metacritic.com/movie/the-body-remembers-when-the-world-broke-open,"['Elle-Máijá Tailfeathers', 'Kathleen Hepburn']",['Drama']
+443,The Missing Picture,https://www.metacritic.com/movie/the-missing-picture,['Rithy Panh'],['Documentary']
+444,"I Travel Because I Have to, I Come Back Because I Love You",https://www.metacritic.com/movie/i-travel-because-i-have-to-i-come-back-because-i-love-you,"['Karim Ainouz', 'Marcelo Gomes']",['Drama']
+445,The Invisible Man,https://www.metacritic.com/movie/the-invisible-man-1933,['James Whale'],"['Sci-Fi', 'Horror']"
+446,Scarface,https://www.metacritic.com/movie/scarface-1932,"['Howard Hawks', 'Richard Rosson']","['Action', 'Drama', 'Thriller', 'Crime', 'Film-Noir']"
+447,Of Men and War,https://www.metacritic.com/movie/of-men-and-war,['Laurent Bécue-Renard'],"['History', 'War', 'Documentary']"
+448,The Long Goodbye,https://www.metacritic.com/movie/the-long-goodbye,['Robert Altman'],"['Drama', 'Mystery', 'Thriller', 'Comedy', 'Crime']"
+449,She Wore a Yellow Ribbon,https://www.metacritic.com/movie/she-wore-a-yellow-ribbon,['John Ford'],['Western']
+450,Imitation of Life,https://www.metacritic.com/movie/imitation-of-life,['Douglas Sirk'],['Drama']
+451,Pain and Glory,https://www.metacritic.com/movie/pain-and-glory,['Pedro Almodóvar'],['Drama']
+452,Genèse (Genesis),https://www.metacritic.com/movie/gencse-genesis,['Philippe Lesage'],['Drama']
+453,The Farthest,https://www.metacritic.com/movie/the-farthest,['Emer Reynolds'],"['History', 'Documentary']"
+454,Gomorrah,https://www.metacritic.com/movie/gomorrah,['Matteo Garrone'],"['Drama', 'Crime']"
+455,Days,https://www.metacritic.com/movie/days,['Ming-liang Tsai'],['Drama']
+456,Who We Are: A Chronicle of Racism in America,https://www.metacritic.com/movie/who-we-are-a-chronicle-of-racism-in-america,"['Emily Kunstler', 'Sarah Kunstler']",['Documentary']
+457,To Be and to Have,https://www.metacritic.com/movie/to-be-and-to-have,['Nicolas Philibert'],"['Family', 'Documentary']"
+458,A Night of Knowing Nothing,https://www.metacritic.com/movie/a-night-of-knowing-nothing,['Payal Kapadia'],['Documentary']
+459,Halloween,https://www.metacritic.com/movie/halloween-1978,['John Carpenter'],"['Thriller', 'Horror']"
+460,Eraserhead,https://www.metacritic.com/movie/eraserhead,['David Lynch'],['Horror']
+461,The Velvet Underground,https://www.metacritic.com/movie/the-velvet-underground,['Todd Haynes'],"['Music', 'Documentary']"
+462,Medium Cool,https://www.metacritic.com/movie/medium-cool,['Haskell Wexler'],['Drama']
+463,Attica,https://www.metacritic.com/movie/attica,['Stanley Nelson'],['Documentary']
+464,Can You Bring It: Bill T. Jones and D-Man in the Waters,https://www.metacritic.com/movie/can-you-bring-it-bill-t-jones-and-d-man-in-the-waters,"['Rosalynde LeBlanc', 'Tom Hurwitz']",['Documentary']
+465,Alcarràs,https://www.metacritic.com/movie/alcarrss,['Carla Simón'],['Drama']
+466,Fire at Sea,https://www.metacritic.com/movie/fire-at-sea,['Gianfranco Rosi'],['Documentary']
+467,The Fugitive,https://www.metacritic.com/movie/the-fugitive,['Andrew Davis'],"['Action', 'Drama', 'Mystery', 'Thriller', 'Crime']"
+468,F for Fake,https://www.metacritic.com/movie/f-for-fake,"['François Reichenbach', 'Gary Graver', 'Oja Kodar', 'Orson Welles']",['Documentary']
+469,About Elly (2009),https://www.metacritic.com/movie/about-elly,['Asghar Farhadi'],"['Drama', 'Mystery']"
+470,The Bridge on the River Kwai,https://www.metacritic.com/movie/the-bridge-on-the-river-kwai,['David Lean'],"['Adventure', 'Drama', 'War']"
+471,Goldfinger,https://www.metacritic.com/movie/goldfinger,['Guy Hamilton'],"['Action', 'Adventure', 'Thriller']"
+472,Ma Rainey's Black Bottom,https://www.metacritic.com/movie/ma-raineys-black-bottom,['George C. Wolfe'],"['Drama', 'Music']"
+473,One False Move,https://www.metacritic.com/movie/one-false-move,['Carl Franklin'],"['Drama', 'Crime']"
+474,En el Séptimo Día (On the Seventh Day),https://www.metacritic.com/movie/en-el-septimo-dia-on-the-seventh-day,['Jim McKay'],['Drama']
+475,Jane,https://www.metacritic.com/movie/jane,['Brett Morgen'],"['Biography', 'Documentary']"
+476,Jaws,https://www.metacritic.com/movie/jaws,['Steven Spielberg'],"['Adventure', 'Thriller', 'Horror']"
+477,We Are the Best!,https://www.metacritic.com/movie/we-are-the-best,['Lukas Moodysson'],['Drama']
+478,Spartacus,https://www.metacritic.com/movie/spartacus,['Stanley Kubrick'],"['Adventure', 'Biography', 'Drama', 'History', 'War']"
+479,Small Axe: Education,https://www.metacritic.com/movie/education,['Steve McQueen'],['Drama']
+480,About Endlessness,https://www.metacritic.com/movie/about-endlessness,['Roy Andersson'],"['Drama', 'Fantasy']"
+481,Back to the Future,https://www.metacritic.com/movie/back-to-the-future,['Robert Zemeckis'],"['Adventure', 'Sci-Fi', 'Comedy']"
+482,Hope,https://www.metacritic.com/movie/hope,['Maria Sødahl'],"['Drama', 'Romance']"
+483,If Beale Street Could Talk,https://www.metacritic.com/movie/if-beale-street-could-talk,['Barry Jenkins'],"['Drama', 'Romance', 'Crime']"
+484,My Journey Through French Cinema,https://www.metacritic.com/movie/my-journey-through-french-cinema,['Bertrand Tavernier'],['Documentary']
+485,Wallace & Gromit: The Curse of the Were-Rabbit,https://www.metacritic.com/movie/wallace-gromit-the-curse-of-the-were-rabbit,"['Nick Park', 'Steve Box']","['Adventure', 'Comedy', 'Animation', 'Family']"
+486,The Diary of a Teenage Girl,https://www.metacritic.com/movie/the-diary-of-a-teenage-girl,['Marielle Heller'],"['Drama', 'Romance']"
+487,Elena,https://www.metacritic.com/movie/elena,['Andrei Zvyagintsev'],['Drama']
+488,All Is Lost,https://www.metacritic.com/movie/all-is-lost,['J.C. Chandor'],"['Action', 'Adventure', 'Drama']"
+489,Hereditary,https://www.metacritic.com/movie/hereditary,['Ari Aster'],"['Drama', 'Mystery', 'Thriller', 'Horror']"
+490,Return to Seoul,https://www.metacritic.com/movie/return-to-seoul,['Davy Chou'],['Drama']
+491,Listen to Me Marlon,https://www.metacritic.com/movie/listen-to-me-marlon,['Stevan Riley'],"['Biography', 'Documentary']"
+492,Gideon's Army,https://www.metacritic.com/movie/gideons-army,['Dawn Porter'],['Documentary']
+493,Odd Man Out,https://www.metacritic.com/movie/odd-man-out,['Carol Reed'],"['Drama', 'Thriller', 'Crime']"
+494,Maria Full of Grace,https://www.metacritic.com/movie/maria-full-of-grace,['Joshua Marston'],"['Drama', 'Thriller', 'Crime']"
+495,Fateless,https://www.metacritic.com/movie/fateless,['Lajos Koltai'],['Drama']
+496,Happy as Lazzaro,https://www.metacritic.com/movie/happy-as-lazzaro,['Alice Rohrwacher'],['Drama']
+497,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,https://www.metacritic.com/movie/the-fog-of-war-eleven-lessons-from-the-life-of-robert-s-mcnamara,['Errol Morris'],"['War', 'Documentary']"
+498,Uncle Boonmee Who Can Recall His Past Lives,https://www.metacritic.com/movie/uncle-boonmee-who-can-recall-his-past-lives,['Apichatpong Weerasethakul'],"['Fantasy', 'Comedy']"
+499,Brokeback Mountain,https://www.metacritic.com/movie/brokeback-mountain,['Ang Lee'],"['Drama', 'Romance', 'Western']"
